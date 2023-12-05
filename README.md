@@ -54,14 +54,15 @@
 
 <br>
 
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkggee&langs_count=5&layout=compact&theme=default)](https://github.com/kkggee/kkggee)
+
+<!--
 <div align="center">
 
 ![Kim-gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkggee&show_icons=true&theme=default)
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkggee&langs_count=5&layout=compact&theme=default)](https://github.com/kkggee/kkggee)
 
 </div>
-
-
 
 <!--
 **kkggee/kkggee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
