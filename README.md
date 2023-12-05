@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20to%20gaeun's%20Github&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=000000)
 </div>
+<br>
 
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
@@ -54,9 +55,8 @@
 <br>
 
 <div align="center">
-    
-![Kim-Gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkggee&show_icons=true&theme=swift)
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkggee&langs_count=5&layout=compact&theme=default)](https://github.com/kkggee/kkggee)
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kkggee&show_icons=true&include_all_commits=true&theme=default&hide_border=False" alt="Kim-gaeun's github stats" /></a>
+ <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkggee&layout=compact&theme=default&hide_border=False" /></a> 
 
 </div>
 
