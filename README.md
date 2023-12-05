@@ -55,8 +55,8 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kkggee&show_icons=true&include_all_commits=true&theme=default&hide_border=False" alt="Kim-gaeun's github stats" /></a>
- <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkggee&layout=compact&theme=default&hide_border=False" /></a> 
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kkggee&show_icons=true&include_all_commits=true&theme=default&hide_border=False" alt="Kim-gaeun's github stats" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkggee&layout=compact&theme=default&hide_border=False" /> 
 
 </div>
 
