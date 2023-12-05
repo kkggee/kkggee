@@ -55,8 +55,9 @@
 <br>
 
 <div align="center">
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kkggee&show_icons=true&include_all_commits=true&theme=default&hide_border=False" alt="Kim-gaeun's github stats" />
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkggee&layout=compact&theme=default&hide_border=False" /> 
+
+![Kim-gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkggee&show_icons=true&theme=default)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkggee&langs_count=5&layout=compact&theme=default)](https://github.com/kkggee/kkggee)
 
 </div>
 
